@@ -10,3 +10,5 @@ pinned: false
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+The Deployment can be checked by streamlit run app.py
+or by the following link
